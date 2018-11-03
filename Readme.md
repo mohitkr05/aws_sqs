@@ -16,7 +16,10 @@ The project aims to implement the distributed architecture using the Amazon AWS
 - Bug Fixes
 - implementation for second EC2
 
-##Architecture
+## Architecture
+
+![alt text](https://raw.githubusercontent.com/mohitkr05/aws_sqs/master/architecture.png)
+
 
 ## Getting Started
 
